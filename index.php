@@ -17,11 +17,32 @@
 </div> <!-- slider -->
 
 <div id="inhaltsbereich" class="sektion">
-	<div class="buehne">
-		<h2>Moin moin und Salam Hamburg,</h2>
-		<p>Das SALIBABA, Hamburgs erste Pitaria, ist eröffnet! <br class="desktop">In unserem syrischen Imbiss im <strong>Eppendorfer Weg 91</strong> geht dein Wunsch in die Füllung – umhüllt von frisch gebackenem Pitabrot. Wähle aus unseren vegetarischen Mazza Spezialitäten, gegrillten Kebabs, Lammwürstchen, Schawarma von der Maispoularde ... <br class="desktop"><strong>Falafel kennst du schon? Aber nicht so gut!</strong></p>
-		<p>Für alle, die gern selbst am Herd stehen, halten wir edle Gewürze und Grundzutaten der arabischen Küche bereit.</p>
-		<p><strong>Öffnungszeiten:</strong> Mo-Sa 11:00-20:30, So geschlossen</p>
+        <div class="grid">
+            <div class="col-1-2 grid-pad mi-center-text">
+                <div class="content">
+                    <h2>Moin moin und Salam Hamburg,</h2>
+                    <p>Das SALIBABA, Hamburgs erste Pitaria, ist eröffnet! <br class="desktop">In unserem syrischen Imbiss im <strong>Eppendorfer Weg 91</strong> geht dein Wunsch in die Füllung – umhüllt von frisch gebackenem Pitabrot. Wähle aus unseren vegetarischen Mazza Spezialitäten, gegrillten Kebabs, Lammwürstchen, Schawarma von der Maispoularde ... <br class="desktop"><strong>Falafel kennst du schon? Aber nicht so gut!</strong></p>
+                    <p>Für alle, die gern selbst am Herd stehen, halten wir edle Gewürze und Grundzutaten der arabischen Küche bereit.</p>
+                    <p><strong>Öffnungszeiten:</strong> Mo-Sa 11:00-20:30, So geschlossen</p>
+                </div>
+            </div>
+            <div class="col-1-2 grid-pad mi-center-text">
+                <div class="content mi-mark-links">
+                    <h2>NEU AB 2018:</h2>
+                    <p>Salibaba jetzt auch in der Bankstraße!</p>
+<!--                    <p>SALIBABA · Banksstr. 28 · 20095 Hamburg · 040-32 31 02 13</p>-->
+                    <p>SALIBABA<br><a href="https://goo.gl/maps/z4b98RoZ5eL2" target="_blank">Banksstr.&nbsp;28&nbsp;·&nbsp;20095&nbsp;Hamburg</a><br>
+                        <a href="tel:+494032310213">040-32&nbsp;31&nbsp;02&nbsp;13</a>
+                    </p>
+                    <p>Öffnungszeiten:<br>
+                        Mo-Fr: 09:00-15:00 Uhr</p>
+                </div>
+            </div>
+        </div>
+    <div class="buehne">
+        <div class="mi-zitat mi-padding-updown">
+            <blockquote>„Warum Hauptspeisen speisen, wenn man auch Vorspeisen als Hauptspeisen speisen kann?“</blockquote>
+        </div>
 
 		<div class="legende">
        	  <div class="typ vegan">vegan</div>

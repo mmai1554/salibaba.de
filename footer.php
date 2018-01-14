@@ -5,7 +5,7 @@
 		<ul id="abbinder">
         	<li>Salibaba Eppendorfer Weg 91</li>
             <li><a href="mailto:mail@salibaba.de" target="_blank">mail@salibaba.de</a></li> 
-            <li><a href="#impressum" onclick="javascript:anzeigen('impressum'); return false">Impressum</a></li>
+            <li><a href="#impressum" onclick="anzeigen('impressum'); return false;">Impressum</a></li>
             <li><a href="https://www.facebook.com/salibabahamburg" target="_blank"s><img class="fb-logo" src="images/facebook-flat-vector-logo.png" alt="Salibaba bei Facebook" /></a></li>
         </ul>	
 	</div> <!-- .buehne -->
@@ -46,6 +46,7 @@
 <link href="salibaba-hamburg.min.css?ver=20161111" rel="stylesheet" type="text/css" />
 <link href="css/owl.carousel.min.css?ver=20161111" rel="stylesheet" type="text/css" />
 <link href="css/owl.theme.min.css?ver=20161111" rel="stylesheet" type="text/css" />
+<link href="css/mi.css" rel="stylesheet" type="text/css" />
 
 <!-- Schrift ueber AdobeTypeKit einbinden -->
 <script src="https://use.typekit.net/uzk2reo.js"></script>
@@ -102,20 +103,12 @@ function anzeigen(id) {
 }
 </script> 
 
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(["trackPageView"]);
-  _paq.push(["enableLinkTracking"]);
+<?php
+// Include PIWIK only on production system (2018014, mmai)
+if(!substr($_SERVER['HTTP_HOST'], -9) == 'localhost') {
+   include 'piwik.php';
+}
+?>
 
-  (function() {
-    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.saliba-shop.de/";
-    _paq.push(["setTrackerUrl", u+"piwik.php"]);
-    _paq.push(["setSiteId", "2"]);
-    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
-    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Piwik Code -->
 </body>
 </html>

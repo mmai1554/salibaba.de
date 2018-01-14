@@ -1,6 +1,6 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} !^www.salibaba.de
-RewriteRule (.*) http://www.salibaba.de%{REQUEST_URI} [R=301,L] 
+# RewriteEngine On
+# RewriteCond %{HTTP_HOST} !^www.salibaba.de
+# RewriteRule (.*) http://www.salibaba.de%{REQUEST_URI} [R=301,L]
 
 # EXPIRES CACHING #
 <IfModule mod_expires.c>
