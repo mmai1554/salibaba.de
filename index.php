@@ -30,7 +30,6 @@
                 <div class="content mi-mark-links">
                     <h2>NEU AB 2018:</h2>
                     <p>Salibaba jetzt auch in der Bankstraße!</p>
-<!--                    <p>SALIBABA · Banksstr. 28 · 20095 Hamburg · 040-32 31 02 13</p>-->
                     <p>SALIBABA<br><a href="https://goo.gl/maps/z4b98RoZ5eL2" target="_blank">Banksstr.&nbsp;28&nbsp;·&nbsp;20095&nbsp;Hamburg</a><br>
                         <a href="tel:+494032310213">040-32&nbsp;31&nbsp;02&nbsp;13</a>
                     </p>

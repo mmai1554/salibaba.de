@@ -2,17 +2,20 @@
 <div id="abbinder-logo" class="sektion">
 	<div class="buehne">
 		<img class="logo" src="images/logo-salibaba-hamburg.min.png" alt="Salibaba Hamburg" />
-		<ul id="abbinder">
+		<ul class="mi-footer-nav">
         	<li>Salibaba Eppendorfer Weg 91</li>
         	<li>Salibaba Bankstraße 28</li>
             <li><a href="mailto:mail@salibaba.de" target="_blank">mail@salibaba.de</a></li>
-            <li><a href="#impressum" onclick="anzeigen('impressum'); return false;">Impressum</a></li>
             <li><a href="https://www.facebook.com/salibabahamburg" target="_blank"s><img class="fb-logo" src="images/facebook-flat-vector-logo.png" alt="Salibaba bei Facebook" /></a></li>
-        </ul>	
-	</div> <!-- .buehne -->
+        </ul>
+        <ul class="mi-footer-nav">
+            <li><a href="#impressum" onclick="anzeigen('impressum'); return false;">Impressum</a></li>
+            <li><a href="#datenschutz" onclick="anzeigen('datenschutz'); return false;">Datenschutz</a></li>
+        </ul>
+    </div> <!-- .buehne -->
 </div> <!-- #abbinder-logo -->
 
-<div id="impressum" class="sektion" style="display: none;">
+<div id="impressum" class="sektion">
 	<div class="buehne">
 		<h3>Impressum</h3>
 		<h4>Herausgeber:</h4>
@@ -43,6 +46,11 @@
         </p>
     </div> <!-- .buehne -->
 </div> <!-- #impressum -->
+<div id="datenschutz" class="sektion">
+    <div class="buehne grid grid-pad">
+        <?php include('datenschutz.php') ?>
+    </div>
+</div>
 
 <link href="salibaba-hamburg.min.css?ver=20161111" rel="stylesheet" type="text/css" />
 <link href="css/owl.carousel.min.css?ver=20161111" rel="stylesheet" type="text/css" />

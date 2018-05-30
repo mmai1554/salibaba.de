@@ -40,3 +40,26 @@ $salibaba_grau:rgba(90,90,90,1);
     text-decoration: underline !important;
   }
 }
+
+.mi-footer-nav {
+  overflow:hidden;
+  font-size:12px !important;
+  .fb-logo {
+    max-width:30px;
+  }
+  li {
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: 300;
+    color: rgba(218,170,41,1);
+    text-transform: uppercase;
+    margin-right: 20px !important;
+    letter-spacing: 0.1;
+    vertical-align: middle;
+  }
+  a {
+    color:#D8AC43;
+  }
+}
