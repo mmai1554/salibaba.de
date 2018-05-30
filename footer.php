@@ -4,7 +4,8 @@
 		<img class="logo" src="images/logo-salibaba-hamburg.min.png" alt="Salibaba Hamburg" />
 		<ul id="abbinder">
         	<li>Salibaba Eppendorfer Weg 91</li>
-            <li><a href="mailto:mail@salibaba.de" target="_blank">mail@salibaba.de</a></li> 
+        	<li>Salibaba Bankstraße 28</li>
+            <li><a href="mailto:mail@salibaba.de" target="_blank">mail@salibaba.de</a></li>
             <li><a href="#impressum" onclick="anzeigen('impressum'); return false;">Impressum</a></li>
             <li><a href="https://www.facebook.com/salibabahamburg" target="_blank"s><img class="fb-logo" src="images/facebook-flat-vector-logo.png" alt="Salibaba bei Facebook" /></a></li>
         </ul>	
