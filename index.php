@@ -34,7 +34,7 @@
                     <p>SALIBABA<br><a href="https://goo.gl/maps/z4b98RoZ5eL2" target="_blank">Banksstr.&nbsp;28&nbsp;·&nbsp;20095&nbsp;Hamburg</a><br>
                         <a href="tel:+494032310213">040-32&nbsp;31&nbsp;02&nbsp;13</a>
                     </p>
-                    <p>Öffnungszeiten:<br>
+                    <p><strong>Öffnungszeiten:</strong><br>
                         Mo-Fr: 09:00-15:00 Uhr</p>
                 </div>
             </div>
