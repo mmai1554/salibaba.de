@@ -19,19 +19,17 @@
 	<div class="buehne">
 		<h3>Impressum</h3>
 		<h4>Herausgeber:</h4>
-		<p>Gebr. Saliba e.K.<br />
-		Elias Hanna Saliba<br />
-		Osterstraße 19<br />
-		20259 Hamburg<br /><br />
+        <p>
+        Mazza von Saliba Gastronomie GmbH<br>
+        Beatrix Scheen-Saliba<br>
+        VAT ID: DE209641700<br>
+        HRB-Hamburg 75372<br>
+        Verantwortlich für den Inhalt: Beatrix Scheen-Saliba
 		Telefon: +49 (0) 40 / 85 80 71<br />
-		Telefax: +49 (0) 40 / 85 80 82<br /><br />
 		E-Mail: mail@salibaba.de<br />
-		URL: http://www.salibaba.de<br /><br />
-		VAT ID: 0233202363<br />
-		HRA Hamburg 87106
         </p>
-		<h4>Verantwortlich für den Inhalt: Elias Hanna Saliba</h4>
-        <p>Gebr. Saliba e.K. bietet diese Website öffentlich an, damit Sie sich jederzeit schnell und aktuell über unser Unternehmen
+		<h4>Verantwortlich für den Inhalt: Beatrix Scheen-Saliba</h4>
+        <p>Mazza von Saliba Gastronomie GmbH bietet diese Website öffentlich an, damit Sie sich jederzeit schnell und aktuell über unser Unternehmen
 		informieren können. Wir sind ständig bemüht, umfassende und genaue Informationen bereitzustellen. Sobald wir von Fehlern 
         erfahren, sind wir bestrebt, diese unverzüglich zu korrigieren. Es kann nicht garantiert werden, dass unsere Website im 
         Ganzen ständig verfügbar ist.</p>
@@ -52,21 +50,7 @@
     </div>
 </div>
 
-<link href="salibaba-hamburg.min.css?ver=20161111" rel="stylesheet" type="text/css" />
-<link href="css/owl.carousel.min.css?ver=20161111" rel="stylesheet" type="text/css" />
-<link href="css/owl.theme.min.css?ver=20161111" rel="stylesheet" type="text/css" />
-<link href="css/mi.css" rel="stylesheet" type="text/css" />
 
-<!-- Schrift ueber AdobeTypeKit einbinden -->
-<script src="https://use.typekit.net/uzk2reo.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-
-<!-- jQuery -->
-<script src="js/jquery-3.1.0.min.js"></script>
-<script src="js/jquery-ui.min.js"></script>
-
-<!-- Owl Carousel -->
-<script src="js/owl.carousel.min.js"></script>
 
 <!-- Owl Carousel initialisieren -->
 <script type="text/javascript">
